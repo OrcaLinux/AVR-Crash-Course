@@ -1,0 +1,51 @@
+# General
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.cache
+
+# Compiled files
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+*.dylib
+*.exe
+*.out
+
+# Qt Specific
+*.moc
+*.qrc
+*.qmake.stash
+*.pro.user*
+*.qmlc
+*.qtc*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Generated Files
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+*.gcda
+*.gcno
+
+# Logs and Debug Files
+*.gcov
+*.gch
+*.pdb
+*.dSYM/
+
+# Packages and Dependencies
+*.tar.gz
+*.zip
+node_modules/
+vendor/
